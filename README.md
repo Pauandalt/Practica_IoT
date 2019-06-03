@@ -14,8 +14,11 @@ Gracias a esta  sencilla práctica, el alumno comprenderá la importancia de las
 
 1. Seleccione la localidad que desee.
 2. Descargue los datos del día.
+
+![alt text](Foto_Practica_IoT.PNG)
+
 3. Compruebe que la configuración de los datos y su Excel sean compatibles. (Separación decimal, lectura correcta de datos,etc).
 4. Realice un Gráfico simple de Temp vs Fecha y Humedad % vs Fecha
 5. Repita el proceso con otros dos pueblos y compare los resultados.
 
-![alt text](Foto_Practica_IoT.PNG)
+![alt text](Ejemplo_Practica_IoT.PNG)
