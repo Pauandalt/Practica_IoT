@@ -22,4 +22,5 @@ Gracias a esta  sencilla práctica, el alumno comprenderá la importancia de las
 
 ### Resultado:
 
+
 ![alt text](Ejemplo_Practica_IoT.PNG)
