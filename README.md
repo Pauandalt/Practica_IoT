@@ -18,4 +18,4 @@ Gracias a esta  sencilla práctica, el alumno comprenderá la importancia de las
 4. Realice un Gráfico simple de Temp vs Fecha y Humedad % vs Fecha
 5. Repita el proceso con otros dos pueblos y compare los resultados.
 
-[! Alt text](Foto_Practica_IoT.PNG)
+![alt text](Foto_Practica_IoT.PNG)
